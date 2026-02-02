@@ -17,6 +17,6 @@ This repository contains basic image processing algorithms implemented in three 
 - Image transformations (rotation, translation, resizing)
 
 
-##Author##
-**Muhammed Doğru**
+## Author
+**Muhammed Doğru**  
 Computer Engineering Student
